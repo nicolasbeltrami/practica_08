@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">practica_08</string>
+    <string name="email">email</string>
+    <string name="login">login</string>
+    <string name="recuerdame">recuerdame</string>
+    <string name="contrasena">contraseña</string>
+    <string name="tarea_list">Lista de Tareas</string>
+    <string name="agregar">Agregar Tarea</string>
+    <string name="agregue_tarea">Agregar Tarea</string>
+    <string name="atras">atras</string>
+    <string name="guardar">guardar</string>
+    <string name="nombre_tarea">Nombre Tarea</string>
+</resources>
